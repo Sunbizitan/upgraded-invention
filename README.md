@@ -1,1 +1,1 @@
-# upgraded-invention
+# 数据可视化学习的仓库，主要是Python学习
